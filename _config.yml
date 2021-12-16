@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: tjdgur.github.io.
+title: tjdgur.github.io.gittest
 email: tjdgur0827@naver.com.
 description: >- # 20213042 이성혁 유레카프로젝트 blog creation
 baseurl: "" # the subpath of your site, e.g. /blog
