@@ -22,7 +22,7 @@ title: "tjdgur.github.io"
 email: "tjdgur0827@naver.com"
 description: #"lee sung hyuk project blog creation"
 baseurl:  # the subpath of your site, e.g. /blog
-url: https://tjdgur.github.io/
+url: https://tjdgur.github.io/gittest
 twitter_username: tjdgur0827
 github_username:  tjdgur
 
