@@ -22,7 +22,7 @@ title: tjdgur.github.io.gittest
 email: tjdgur0827@naver.com.
 description: >- # 20213042 이성혁 유레카프로젝트 blog creation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # https://tjdgur.github.io/
+url:https://tjdgur.github.io/
 twitter_username: jekyllrb
 github_username:  tjdgur
 
