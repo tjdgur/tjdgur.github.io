@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "tjdgur.github.io"
+title: "tjdgur.github.io/gittest"
 email: "tjdgur0827@naver.com"
 description: #"lee sung hyuk project blog creation"
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: https://tjdgur.github.io/gittest
 url: https://tjdgur.github.io/gittest
 twitter_username: tjdgur0827
 github_username:  tjdgur
